@@ -37,4 +37,5 @@ public class GlobalExceptionHandler {
 
         return problemDetail;
     }
+
 }
